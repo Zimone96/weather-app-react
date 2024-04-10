@@ -1,0 +1,20 @@
+#submit {
+  background-color: black;
+  font-weight: bold;
+  color: white;
+}
+
+h1 {
+  font-size: 35px;
+  font-weight: bold;
+  color: black;
+  text-shadow: 0 0 5px white;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
